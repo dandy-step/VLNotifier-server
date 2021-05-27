@@ -1,0 +1,3 @@
+#!/bin/sh
+
+g++ -I . -lcurl -lsqlite3 vlnotifier.cpp -o vlnotifier.elf
