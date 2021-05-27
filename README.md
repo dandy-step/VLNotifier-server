@@ -1,4 +1,4 @@
-#VLNotifier-Server
+# VLNotifier-Server
 
 C++ Server application for VLNotifier Android app that detects live casters and sends a notification to the Android app on the target device. Stores all info on a SQLite database for caching and filtering. Able to customize notifications, set timeouts, handle redirects and detect individual casting sessions.
 
